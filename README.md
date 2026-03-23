@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Profile views](https://komarev.com/ghpvc/?username=harshit-sharma14&label=Profile%20views&color=0e75b6&style=flat)
 👋 Hey there! I'm Harshit Sharma — a final-year CSE student & passionate full-stack developer.  <br>💻 I build web apps using the MERN stack, craft responsive UIs with Tailwind CSS, and enjoy solving DSA problems in C++.  <br>🛠️ I work with React, Node.js, Express, MongoDB, REST APIs, Git/GitHub, and Frappe/ERPNext (exploring).  <br>⚙️ Comfortable with both frontend and backend — from building clean UI/UX to handling server-side logic and DBs.  <br>🧠 Always learning something new — currently experimenting with workflows, system design, and blending tech with creative storytelling ideas.  <br>🚀 Let's connect, collaborate, or just geek out over cool projects!<br>
 
 
